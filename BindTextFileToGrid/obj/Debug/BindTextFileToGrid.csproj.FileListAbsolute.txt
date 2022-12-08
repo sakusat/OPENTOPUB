@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\BindTextFileToGrid\BindTextFileToGrid\bin\Debug\BindTextFileToGrid.exe.config
+C:\Users\admin\source\repos\BindTextFileToGrid\BindTextFileToGrid\bin\Debug\BindTextFileToGrid.exe
+C:\Users\admin\source\repos\BindTextFileToGrid\BindTextFileToGrid\bin\Debug\BindTextFileToGrid.pdb
+C:\Users\admin\source\repos\BindTextFileToGrid\BindTextFileToGrid\obj\Debug\BindTextFileToGrid.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\BindTextFileToGrid\BindTextFileToGrid\obj\Debug\BindTextFileToGrid.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\BindTextFileToGrid\BindTextFileToGrid\obj\Debug\BindTextFileToGrid.Properties.Resources.resources
+C:\Users\admin\source\repos\BindTextFileToGrid\BindTextFileToGrid\obj\Debug\BindTextFileToGrid.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\BindTextFileToGrid\BindTextFileToGrid\obj\Debug\BindTextFileToGrid.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\BindTextFileToGrid\BindTextFileToGrid\obj\Debug\BindTextFileToGrid.exe
+C:\Users\admin\source\repos\BindTextFileToGrid\BindTextFileToGrid\obj\Debug\BindTextFileToGrid.pdb
+C:\Users\admin\source\repos\BindTextFileToGrid\BindTextFileToGrid\obj\Debug\BindTextFileToGrid.Form1.resources
