@@ -100,17 +100,17 @@ namespace BindTextFileToGrid
         {
             groupBox1.Enabled = false; isDelete = true;
             lineChanger("", isDelete);
+            clearForm();
             newRow();
+            dataGridView1.DataSource = ConvertToDataTable(6);
+            dataGridView1.Update();
+            dataGridView1.Refresh();
+
         }
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-            if(e.RowIndex>=0)
-            {
-                rowIX=e.RowIndex;
-                loadValues();
-                modieRow();
-            }
+           
         }
 
         private void loadValues()
@@ -154,7 +154,19 @@ namespace BindTextFileToGrid
 
         private void btnCancel_Click(object sender, EventArgs e)
         {
+            clearForm();
+            newRow();
+        }
 
+        private void dataGridView1_RowHeaderMouseClick(object sender, DataGridViewCellMouseEventArgs e)
+        {
+            if (e.RowIndex >= 0)
+            {
+                rowIX = e.RowIndex;
+                loadValues();
+                modieRow();
+                groupBox1.Enabled= true;    
+            }
         }
 
         void lineChanger(string newText, bool isDelete = false)
